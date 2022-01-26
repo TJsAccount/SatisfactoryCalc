@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatRatCalc", "SatRatCalc.csproj", "{A38BCB2B-D06C-42DC-BC3D-7473FF888D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A38BCB2B-D06C-42DC-BC3D-7473FF888D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38BCB2B-D06C-42DC-BC3D-7473FF888D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38BCB2B-D06C-42DC-BC3D-7473FF888D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38BCB2B-D06C-42DC-BC3D-7473FF888D12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD16EE5A-5FCA-4160-B551-97DA64945EDC}
+	EndGlobalSection
+EndGlobal
